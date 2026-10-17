@@ -1,4 +1,4 @@
-# 👋 Hi, I’m ABDULLAH (@abdu77ah-git)
+# 👋 Hi, I’m ABDULLAH (@abdullah-gorsi)
 
 ### Mobile App Creator | Flutter Developer | UI/UX Enthusiast 
 Building Cross-Platform Apps That Blend Clean Design With Smooth Performance 🚀  
