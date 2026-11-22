@@ -1,22 +1,33 @@
-# 👋 Hi, I’m ABDULLAH (@abdullah-gorsi)
+# 👋 Hi, I'm ABDULLAH (@abdullah-gorsi)
 
-### Mobile App Creator | Flutter Developer | UI/UX Enthusiast 
-Building Cross-Platform Apps That Blend Clean Design With Smooth Performance 🚀  
+**Flutter Developer | Agentic AI Enthusiast | UI/UX Explorer**
+
+Building cross-platform mobile applications and exploring intelligent AI-powered systems. 🚀
 
 ---
 
 ## 🧩 About Me
-- 🎓 **BSCS** student at **COMSATS University Islamabad, Sahiwal Campus**.  
-- 📱 Passionate about **Flutter development** and creating seamless mobile experiences  
-- 🌱 Currently learning **Firebase**, **API integration**, and **state management (Provider)**  
-- 🧠 Interested in **app architecture**, **backend integration**, and **scalable design systems**
+
+- 🎓 BSCS student at **COMSATS University Islamabad, Sahiwal Campus**.
+- 📱 Passionate about Flutter development and creating seamless mobile experiences.
+- 🐍 Experienced with Python and building backend APIs using **FastAPI**.
+- 🤖 Exploring **Agentic AI, Large Language Models (LLMs), and AI-powered applications**.
+- 🧠 Currently learning **RAG, LangChain, and LangGraph** to build intelligent AI agents and workflow-based systems.
+- ⚡ Interested in application architecture, backend integration, automation, and scalable software solutions.
 
 ---
 
 ## 🎯 My Current Goals
-- 📱 Build and publish my **first production-ready Flutter app** 
-- ☁️ Learn **backend integration with Firebase & Node.js**  
-- 🧩 Contribute to **UI/UX best practices in mobile design**
+
+- 📱 Build and publish production-ready Flutter applications.
+- 🤖 Develop practical AI-powered applications using LLMs and Agentic AI.
+- 🔗 Explore RAG pipelines, LangChain, and LangGraph for intelligent workflows.
+- ⚙️ Strengthen backend development with Python, FastAPI, and API integration.
+- 🚀 Combine mobile development and AI to build meaningful software products.
+
+---
+
+*Always learning, building, experimenting, and turning ideas into working software.* 🚀
 
 ---
 
